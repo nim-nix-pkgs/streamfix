@@ -69,11 +69,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1653702422,
-        "narHash": "sha256-7VGIevgLpR3hgPWUf6DOpU1G2r9Bxqm4iGbV2K2eSTo=",
+        "lastModified": 1656298124,
+        "narHash": "sha256-QpQRh83mUSL1XK81m/1MSWQYEIczfR+I+6I45d0oU/o=",
         "owner": "nim-nix-pkgs",
         "repo": "streamfix",
-        "rev": "296372fa0452a464cbee462e773359ccbe4be68a",
+        "rev": "165e0c2d8a08074777b000e5642c6d91c8281c4d",
         "type": "github"
       },
       "original": {
